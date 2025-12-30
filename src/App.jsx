@@ -6,7 +6,8 @@ function App() {
 
   return (
     <>
-     Hello
+    <h1> Hello world</h1>
+    <p> This is my first react Project</p>
     </>
   )
 }
