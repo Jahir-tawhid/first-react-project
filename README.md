@@ -1,8 +1,8 @@
 # first-react-project
 A modern web application built with React. This project serves as the foundation for learning component-based architecture and state management.
 
-🚀 Features
-Component-Based UI: Built using reusable functional components.
+# 🚀 Features - Component-Based UI: 
+Built using reusable functional components.
 Responsive Design: Optimized for mobile, tablet, and desktop views.
 
 # Fast Development:
