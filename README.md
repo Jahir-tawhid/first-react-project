@@ -29,22 +29,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your system.
    ```bash
    git clone [https://github.com/Jahir-tawhid/first-react-project.git](https://github.com/Jahir-tawhid/first-react-project.git)
 
-   Navigate to the project folder:
-
-Bash
-
-cd first-react-project
-Install dependencies:
-
-Bash
-
-npm install
-Start the development server:
-
-Bash
-
-npm run dev
-Now, open your browser and go to http://localhost:5173.
+  
 
 📂 Project Structure
 Plaintext
