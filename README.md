@@ -3,36 +3,18 @@ A modern web application built with React. This project serves as the foundation
 
 🚀 Features
 Component-Based UI: Built using reusable functional components.
-
 Responsive Design: Optimized for mobile, tablet, and desktop views.
 
-Fast Development: Powered by Vite (or Create React App) for Hot Module Replacement (HMR).
+# Fast Development:
+Powered by Vite (or Create React App) for Hot Module Replacement (HMR).
 
-🛠️ Installation & Setup
+# 🛠️ Installation & Setup
 Follow these steps to get the project running on your local machine:
 
 Clone the repository:
-
-Bash
-
 git clone https://github.com/Jahir-tawhid/first-react-project.git
-Navigate to the project directory:
 
-Bash
 
-cd first-react-project
-Install dependencies:
-
-Bash
-
-npm install
-Start the development server:
-
-Bash
-
-npm run dev
- OR, if using CRA:
-npm start
 # 📂 Project Structure
 Plaintext
 
@@ -45,7 +27,8 @@ Plaintext
 ├── .gitignore       # Files to ignore in Git
 ├── package.json     # Project dependencies and scripts
 └── README.md        # Project documentation
-📜 Available Scripts
+
+# 📜 Available Scripts
 In the project directory, you can run:
 
 npm run dev - Runs the app in development mode.
