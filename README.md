@@ -1,4 +1,4 @@
-### first-react-project
+###first-react-project
 A modern web application built with React. This project serves as the foundation for learning component-based architecture and state management.
 
 🚀 Features
