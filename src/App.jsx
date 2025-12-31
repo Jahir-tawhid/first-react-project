@@ -1,13 +1,12 @@
-
 import './App.css'
+import Root from './components/Root'
 
 function App() {
   
 
   return (
     <>
-    <h1> Hello world</h1>
-    <p> This is my first react Project</p>
+    <Root  />
     </>
   )
 }
