@@ -19,7 +19,7 @@ const Navbar = () => {
 
                                  {/* Mobile menu Bar */}
                                 <div onClick={toggleMenu}> 
-                                { IsOpen ? <IoMdClose /> : <FaBars />}
+                                { isOpen ? <IoMdClose /> : <FaBars />}
                                 
                                 
                                 </div>
