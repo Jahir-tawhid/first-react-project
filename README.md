@@ -63,7 +63,8 @@ Start the development server:
 ```Bash
 npm run dev
 ```
-# 👤 Author: Jahir Tawhid
+ 👤 Author:
+ Jahir Tawhid
  GitHub: @Jahir-tawhid
  
  ```
