@@ -1,8 +1,3 @@
-# 🚀 First React Project
-
-A modern, responsive web application built with **React** and **Tailwind CSS**. This project focuses on clean folder structure, dynamic routing, and a seamless user experience.
-
----
 
 # 🚀 First React Project
 
@@ -68,8 +63,7 @@ Start the development server:
 ```Bash
 npm run dev
 ```
-# 👤 Author
-Jahir Tawhid
+# 👤 Author: Jahir Tawhid
 GitHub: @Jahir-tawhid
 LinkedIn: www.linkedin.com/in/jahirtawhid
 
