@@ -165,24 +165,20 @@ const Navbar = () => {
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-6">
-          {navLinks.map(
-            (
-              item // 'Link' এর বদলে 'item' ব্যবহার করা হয়েছে
-            ) => (
-              <li key={item.path}>
-                <Link
-                  to={item.path}
-                  className={`${
-                    activeLink === item.path
-                      ? "text-blue-400 font-bold"
-                      : "hover:text-green-300"
-                  } transition-colors duration-200`}
-                >
-                  {item.name}
-                </Link>
-              </li>
-            )
-          )}
+          {navLinks.map((item) => (
+            <li key={item.path}>
+              <Link
+                to={item.path}
+                className={`${
+                  activeLink === item.path
+                    ? "text-blue-400 font-bold"
+                    : "hover:text-green-300"
+                } transition-colors duration-200`}
+              >
+                {item.name}
+              </Link>
+            </li>
+          ))}
         </ul>
 
         {/* Fixed Login Link */}

@@ -7,6 +7,7 @@ import Contact from "../components/pages/Contact";
 import About from "../components/pages/About";
 import LogIn from "../components/auth/LogIn";
 import Register from "../components/auth/Register";
+import ForgotPassword from "./../components/auth/ForgotPassword";
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,7 @@ const router = createBrowserRouter([
       { path: "about", Component: About },
       { path: "login", Component: LogIn },
       { path: "register", Component: Register },
+      { path: "forgot-password", Component: ForgotPassword },
     ],
   },
 ]);
