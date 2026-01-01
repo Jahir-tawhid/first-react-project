@@ -26,16 +26,16 @@ const LogIn = () => {
             type="submit"
             className="w-full bg-green-700 py-2 rounded hover:bg-green-900 cursor-pointer"
           >
-            Login
+            LogIn
           </button>
         </form>
 
         <div className="flex flex-col space-y-3 mt-3">
           <button className="bg-yellow-600 py-2 rounded hover:bg-yellow-900 cursor-pointer">
-            Login with Google
+            LogIn with Google
           </button>
           <button className="bg-gray-600 py-2 rounded hover:bg-gray-900 cursor-pointer">
-            Login with GitHub
+            LogIn with GitHub
           </button>
         </div>
 
