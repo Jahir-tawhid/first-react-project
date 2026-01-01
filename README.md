@@ -4,7 +4,7 @@
 A modern, responsive web application built with **React** and **Tailwind CSS**. This project focuses on clean folder structure, dynamic routing, and a seamless user experience.
 
 
-## 📂 Project Structure:
+## 📂 Project Structure
 
 Below is the directory layout of the project:
 
@@ -27,7 +27,7 @@ text
 └── README.md            # Project documentation
 ```
 
-# 🛠️ Tech Stack:
+# 🛠️ Tech Stack
 ```
 Frontend : React.js
 Build Tool : Vite
