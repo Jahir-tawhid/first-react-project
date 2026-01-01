@@ -36,18 +36,18 @@ Routing : React Router Dom
 Icons : React Icons
 ```
 # ✨ Key Features
-Responsive Navigation: Fully functional mobile menu with smooth transitions.
+1. Responsive Navigation: Fully functional mobile menu with smooth transitions.
 
-Active Path Tracking: Dynamic navigation links that highlight based on the current URL.
+2. Active Path Tracking: Dynamic navigation links that highlight based on the current URL.
 
-Optimized Routing: Clean and manageable route configuration using React Router.
+3. Optimized Routing: Clean and manageable route configuration using React Router.
 
-Modern UI/UX: Styled with Tailwind CSS for a sleek and professional look.
+4. Modern UI/UX: Styled with Tailwind CSS for a sleek and professional look.
 
 # 🚀 Getting Started
 To get a local copy up and running, follow these steps:
 
-# Clone the repository:
+Clone the repository:
 ```Bash
 git clone [https://github.com/Jahir-tawhid/first-react-project.git](https://github.com/Jahir-tawhid/first-react-project.git)
 Navigate to the project directory:
