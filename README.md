@@ -4,40 +4,12 @@ A modern, responsive web application built with **React** and **Tailwind CSS**. 
 
 ---
 
-## 📂 Project Structure
-
-Below is the directory layout of the project:
-
-```text
-first-react-project/
-├── public/              # Static assets (favicon, manifest, etc.)
-├── src/
-│   ├── assets/          # Global images, fonts, and SVG icons
-│   ├── components/      # Reusable UI components (Navbar, Footer, Card, etc.)
-│   ├── layouts/         # Layout wrappers for different page structures
-│   ├── pages/           # Individual page views (Home, Products, Blogs, etc.)
-│   ├── routes/          # Route definitions and configuration logic
-│   ├── App.jsx          # Main application component
-│   ├── main.jsx         # Application entry point (Vite)
-│   └── index.css        # Global styles and Tailwind CSS directives
-├── .gitignore           # Files and folders ignored by Git
-├── package.json         # Project dependencies and scripts
-├── tailwind.config.js   # Tailwind CSS configuration
-├── vite.config.js       # Vite build tool configuration
-└── README.md            # Project documentation
-
-
-Sure! Here is the professional version of your README.md in English, optimized for GitHub.
-
-Markdown
-
 # 🚀 First React Project
 
 A modern, responsive web application built with **React** and **Tailwind CSS**. This project focuses on clean folder structure, dynamic routing, and a seamless user experience.
 
----
 
-## 📂 Project Structure
+## 📂 Project Structure:
 
 Below is the directory layout of the project:
 
@@ -59,16 +31,13 @@ first-react-project/
 ├── vite.config.js       # Vite build tool configuration
 └── README.md            # Project documentation
 
-# 🛠️ Tech Stack
-Frontend: React.js
+# 🛠️ Tech Stack:
 
-Build Tool: Vite
-
-Styling: Tailwind CSS
-
-Routing: React Router Dom
-
-Icons: React Icons
+*Frontend:* React.js
+*Build Tool:* Vite
+*Styling:* Tailwind CSS
+*Routing:* React Router Dom
+*Icons:* React Icons
 
 # ✨ Key Features
 Responsive Navigation: Fully functional mobile menu with smooth transitions.
