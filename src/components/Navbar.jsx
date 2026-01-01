@@ -10,7 +10,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="bg-green-800 text-white py-4 md:py-8 relative border-b-2 border-green-500">
+    <nav className="bg-green-800 text-white py-4 md:py-8 sticky top-0 z-10 border-b-2 border-green-500">
       <div className="container mx-auto flex justify-between items-center">
         <h3 className="text-xl font-bold"> React Practice</h3>
 
