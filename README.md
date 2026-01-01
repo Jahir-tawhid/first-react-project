@@ -34,6 +34,7 @@ Build Tool : Vite
 Styling : Tailwind CSS
 Routing : React Router Dom
 Icons : React Icons
+Auth : Firebase
 ```
 # ✨ Key Features
 1. Responsive Navigation: Fully functional mobile menu with smooth transitions.
