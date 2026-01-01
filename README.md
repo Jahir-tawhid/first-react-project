@@ -65,8 +65,9 @@ npm run dev
 ```
  👤 Author:
  Jahir Tawhid
+ ```
  GitHub: @Jahir-tawhid
- 
+ ```
  ```
 LinkedIn: www.linkedin.com/in/jahirtawhid
 ```
