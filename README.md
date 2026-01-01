@@ -28,13 +28,13 @@ text
 ```
 
 # 🛠️ Tech Stack:
-
-Frontend: React.js
-Build Tool: Vite
-Styling: Tailwind CSS
-Routing: React Router Dom
-Icons: React Icons
-
+```
+Frontend : React.js
+Build Tool : Vite
+Styling : Tailwind CSS
+Routing : React Router Dom
+Icons : React Icons
+```
 # ✨ Key Features
 Responsive Navigation: Fully functional mobile menu with smooth transitions.
 
