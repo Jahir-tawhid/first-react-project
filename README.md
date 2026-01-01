@@ -14,7 +14,7 @@ A modern, responsive web application built with **React** and **Tailwind CSS**. 
 Below is the directory layout of the project:
 
 text
-first-react-project/
+```first-react-project/
 ├── public/              # Static assets (favicon, manifest, etc.)
 ├── src/
 │   ├── assets/          # Global images, fonts, and SVG icons
@@ -30,14 +30,15 @@ first-react-project/
 ├── tailwind.config.js   # Tailwind CSS configuration
 ├── vite.config.js       # Vite build tool configuration
 └── README.md            # Project documentation
+```
 
 # 🛠️ Tech Stack:
 
-*Frontend:* React.js
-*Build Tool:* Vite
-*Styling:* Tailwind CSS
-*Routing:* React Router Dom
-*Icons:* React Icons
+Frontend: React.js
+Build Tool: Vite
+Styling: Tailwind CSS
+Routing: React Router Dom
+Icons: React Icons
 
 # ✨ Key Features
 Responsive Navigation: Fully functional mobile menu with smooth transitions.
@@ -66,6 +67,7 @@ Start the development server:
 
 ```Bash
 npm run dev
+```
 # 👤 Author
 Jahir Tawhid
 GitHub: @Jahir-tawhid
