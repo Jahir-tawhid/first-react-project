@@ -47,11 +47,11 @@ Icons : React Icons
 # 🚀 Getting Started
 To get a local copy up and running, follow these steps:
 
-Clone the repository:
+1. Clone the repository:
 
 https://github.com/Jahir-tawhid/first-react-project.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 ```
 Bash
 cd first-react-project
