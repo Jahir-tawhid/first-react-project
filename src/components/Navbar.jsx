@@ -10,7 +10,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="bg-green-800 text-white py-4 md:py-8 relative">
+    <nav className="bg-green-800 text-white py-4 md:py-8 relative border-b-2 border-green-500">
       <div className="container mx-auto flex justify-between items-center">
         <h3 className="text-xl font-bold"> React Practice</h3>
 
@@ -22,22 +22,35 @@ const Navbar = () => {
         </div>
         <ul className="hidden md:flex space-x-4 md:space-x-6">
           <li>
-            <Link>Home</Link>
+            <Link to={"/"} className="hover:text-green-500">
+              Home
+            </Link>
           </li>
           <li>
-            <Link to={"products"}>Products</Link>
+            <Link to={"products"} className="hover:text-green-500">
+              Products
+            </Link>
           </li>
           <li>
-            <Link to={"blogs"}>Blogs</Link>
+            <Link to={"blogs"} className="hover:text-green-500">
+              Blogs
+            </Link>
           </li>
           <li>
-            <Link to={"contact"}>Contact</Link>
+            <Link to={"contact"} className="hover:text-green-500">
+              Contact
+            </Link>
           </li>
           <li>
-            <Link to={"about"}>About</Link>
+            <Link to={"about"} className=" hover:text-green-500">
+              About
+            </Link>
           </li>
         </ul>
-        <button className="hidden md:block"> LogIn </button>
+        <button className="hidden md:block bg-white text-black px-4 py-1 rounded cursor-pointer hover:bg-slate-400">
+          {" "}
+          LogIn{" "}
+        </button>
 
         {/* Mobile menu collapsed */}
         <div
@@ -45,14 +58,16 @@ const Navbar = () => {
             isOpen ? "block" : "hidden"
           }`}
         >
-          <ul className="flex flex-col items-center py-4">
-            <li>Home</li>
-            <li>Products</li>
-            <li>Blogs</li>
-            <li>Contact</li>
-            <li>About</li>
+          <ul className="flex flex-col items-center py-4 space-y-2">
+            <li className="hover:text-green-500">Home</li>
+            <li className="hover:text-green-500">Products</li>
+            <li className="hover:text-green-500">Blogs</li>
+            <li className="hover:text-green-500">Contact</li>
+            <li className="hover:text-green-500">About</li>
             <li>
-              <button> LogIn </button>
+              <button className="bg-white text-black px-4 py-1 rounded cursor-pointer hover:bg-slate-400">
+                LogIn
+              </button>
             </li>
           </ul>
         </div>

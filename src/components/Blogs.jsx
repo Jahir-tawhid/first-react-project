@@ -1,11 +1,5 @@
-
-
 const Blogs = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div>Blogs</div>;
+};
 
-export default Blogs
+export default Blogs;
