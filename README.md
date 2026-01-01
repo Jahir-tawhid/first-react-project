@@ -48,8 +48,8 @@ Icons : React Icons
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
-Bash
-git clone: https://github.com/Jahir-tawhid/first-react-project.git
+
+https://github.com/Jahir-tawhid/first-react-project.git
 
 Navigate to the project directory:
 ```
