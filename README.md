@@ -48,19 +48,20 @@ Icons : React Icons
 To get a local copy up and running, follow these steps:
 
 Clone the repository:
-```Bash
-git clone [https://github.com/Jahir-tawhid/first-react-project.git](https://github.com/Jahir-tawhid/first-react-project.git)
-Navigate to the project directory:
+Bash
+git clone: https://github.com/Jahir-tawhid/first-react-project.git
 
-```Bash
+Navigate to the project directory:
+```
+Bash
 cd first-react-project
 Install dependencies:
 
-```Bash
+Bash
 npm install
 Start the development server:
 
-```Bash
+Bash
 npm run dev
 ```
  👤 Author:  Jahir Tawhid
