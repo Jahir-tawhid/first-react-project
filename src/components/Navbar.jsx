@@ -49,8 +49,7 @@
 //               onClick={() => handleClickLink("/products")}
 //               className={`${
 //                 activeLink === "/products"
-//                   ? "text-blue-500"
-//                   : "hover:text-green-500"
+//                   ? "text-blue-500" : "hover:text-green-500"
 //               }`}
 //             >
 //               Products
@@ -62,8 +61,7 @@
 //               onClick={() => handleClickLink("/blogs")}
 //               className={`${
 //                 activeLink === "/blogs"
-//                   ? "text-blue-500"
-//                   : "hover:text-green-500"
+//                   ? "text-blue-500" : "hover:text-green-500"
 //               }`}
 //             >
 //               {" "}
@@ -76,8 +74,7 @@
 //               onClick={() => handleClickLink("/contact")}
 //               className={`${
 //                 activeLink === "/contact"
-//                   ? "text-blue-500"
-//                   : "hover:text-green-500"
+//                   ? "text-blue-500" : "hover:text-green-500"
 //               }`}
 //             >
 //               Contact
@@ -89,8 +86,7 @@
 //               onClick={() => handleClickLink("/about")}
 //               className={`${
 //                 activeLink === "/about"
-//                   ? "text-blue-500"
-//                   : "hover:text-green-500"
+//                   ? "text-blue-500" : "hover:text-green-500"
 //               }`}
 //             >
 //               About
